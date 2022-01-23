@@ -8,6 +8,7 @@ some of the project main functionalities are:
 * Setting class active state when the element is in the viewport and styling added for active states.
 * Adding a scrolling to top button.
 * Hiding the navbar by setting timeout function.
+* Ensuring that the whole page and the navbar are responsive.
 
 ## Project on GitHub:
 
