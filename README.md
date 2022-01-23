@@ -4,6 +4,7 @@ The starter project has some HTML and CSS styling to display a static version of
 
 some of the project main functionalities are:
 * Building a dynamic navigation bar which changes automatically based on the number of the landing page sections.
+* When clicking an item from the navigation menu, the link should scroll to the appropriate section.
 * Setting class active state when the element is in the viewport and styling added for active states.
 * Adding a scrolling to top button.
 * Hiding the navbar by setting timeout function.
@@ -11,3 +12,7 @@ some of the project main functionalities are:
 ## Project on GitHub:
 
 https://github.com/Makarious-Kamal/Landing
+
+## Demo version:
+
+https://makarious-kamal.github.io/Landing/
